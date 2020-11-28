@@ -21,15 +21,15 @@ De acordo com os dados fornecidos pelo TSE entre os anos 2016 e 2020 podemos con
 -	Entre os anos 2016 e 2020 houve um aumento no número de candidatas femininas;
 
 <p align="center">
-  <img src="01.jpg">
+  <img src="01.JPG">
 </p>
 
 -	O nivel de grau de escolaridade das candidatas aumentou com o decorrer dos anos;
 
 <p align="center">
-  <img src="02.jpg">
+  <img src="02.JPG">
 </p>
 
 <p align="center">
-  <img src="03.jpg">
+  <img src="03.JPG">
 </p>
