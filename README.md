@@ -14,3 +14,22 @@
 
 -   Dados das Candidatas, selecionar os anos correspondentes:
 	- https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1
+
+## Resumo
+De acordo com os dados fornecidos pelo TSE entre os anos 2016 e 2020 podemos concluir que:
+
+-	Entre os anos 2016 e 2020 houve um aumento no número de candidatas femininas;
+
+<p align="center">
+  <img src="01.jpg">
+</p>
+
+-	O nivel de grau de escolaridade das candidatas aumentou com o decorrer dos anos;
+
+<p align="center">
+  <img src="02.jpg">
+</p>
+
+<p align="center">
+  <img src="03.jpg">
+</p>
